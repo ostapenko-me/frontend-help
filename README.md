@@ -23,7 +23,7 @@ PATCH /api/users/id78238479
 - css трансформации
 - css фильтры
 
-Поищите в инете всякие сайты, где выкладывают подборки ресурсов для фронтендеров. Например [группа](https://vk.com/webtackles) содержит много ссылок на различные css-эффекты.
+Поищите в инете всякие сайты, где выкладывают подборки ресурсов для фронтендеров. Например [эта группа](https://vk.com/webtackles) содержит много ссылок на различные css-эффекты.
 
 ## SASS
 Тру фронтендеры не пишут чистый css, а используют для этого препроцессоры, less, sass, или даже постпроцессоры (postcss). Нам будет достаточно научиться SASS'у (удобнее имхо использовать его разновидность - SCSS).
@@ -56,7 +56,7 @@ PATCH /api/users/id78238479
 #### И ещё немного ссылок:
 * http://prgssr.ru/
 * https://vk.com/jsraccoon
-* https://htmlacademy.ru/blog/tags/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0
+* [https://htmlacademy.ru/blog/](https://htmlacademy.ru/blog/tags/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0)
 * https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ
 * http://forwebdev.ru/
 
